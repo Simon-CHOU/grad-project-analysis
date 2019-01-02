@@ -28177,7 +28177,7 @@
 											"top": 1119,
 											"width": 56,
 											"height": 13,
-											"text": "开班成功"
+											"text": "开班失败"
 										},
 										{
 											"_type": "LabelView",
@@ -28282,7 +28282,7 @@
 											"top": 1183,
 											"width": 56,
 											"height": 13,
-											"text": "开班失败"
+											"text": "开班成功"
 										},
 										{
 											"_type": "LabelView",
@@ -29211,7 +29211,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFn9RnrbM8P4og="
 							},
-							"name": "开班成功"
+							"name": "开班失败"
 						},
 						{
 							"_type": "UMLAction",
@@ -29219,7 +29219,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFn9RnrbM8P4og="
 							},
-							"name": "开班失败"
+							"name": "开班成功"
 						},
 						{
 							"_type": "UMLAction",
